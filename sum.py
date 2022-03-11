@@ -1,5 +1,5 @@
 def sum(first_number , second_number):
-    Final_sum = first_number + second_number
-    return Final_sum
+    final_sum = first_number + second_number
+    return final_sum
 
-print(sum(3 , 4))     # this will print the sum of 3 and 4 which is equal to 7
+print(sum(3 , 4 ,5))     # this should print the sum of 3,4 and 5.
