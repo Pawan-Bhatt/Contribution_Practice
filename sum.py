@@ -1,4 +1,4 @@
-def sum(first_number , second_number):
+def sum(first_number , second_number,third_num):
     final_sum = first_number + second_number + third_num
     return final_sum
 
